@@ -14,6 +14,12 @@ pnpm dev
 bun dev
 ```
 
+```
+for env
+NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyAmfaZ2YJ2P8wHNCm9DjQgH3L2zNzWTYSs
+NEXT_PUBLIC_API_URL=http://localhost:5000/api/v1
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
